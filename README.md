@@ -1,4 +1,4 @@
-# LAB-09 — Network Forensics Investigation
+# Network Forensics Investigation
 
 ## Overview
 
